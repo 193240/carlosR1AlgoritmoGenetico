@@ -127,7 +127,7 @@ class Ui_AlgoritmoGenetico(object):
         self.label_6.setText(_translate("AlgoritmoGenetico", "<html><head/><body><p><span style=\" font-size:12pt; font-weight:600; color:#ffffff;\">Resolucion</span></p></body></html>"))
         self.label_7.setText(_translate("AlgoritmoGenetico", "<html><head/><body><p><span style=\" font-size:12pt; font-weight:600; color:#ffffff;\">Poblacion Inicial</span></p></body></html>"))
         self.label_8.setText(_translate("AlgoritmoGenetico", "<html><head/><body><p><span style=\" font-size:12pt; font-weight:600; color:#ffffff;\">Generaciones</span></p></body></html>"))
-        self.label_9.setText(_translate("AlgoritmoGenetico", "<html><head/><body><p><span style=\" font-size:12pt; font-weight:600; color:#ffffff;\">Probabilidad De Seleccion Del Individuo</span></p></body></html>"))
+        self.label_9.setText(_translate("AlgoritmoGenetico", "<html><head/><body><p><span style=\" font-size:12pt; font-weight:600; color:#ffffff;\">Probabilidad De Individuo</span></p></body></html>"))
         self.label_10.setText(_translate("AlgoritmoGenetico", "<html><head/><body><p><span style=\" font-size:14pt; font-weight:600; color:#ffffff;\">Funcion A Evaluar: x^2 - 2y^2</span></p></body></html>"))
         self.label_11.setText(_translate("AlgoritmoGenetico", "<html><head/><body><p><span style=\" font-size:12pt; font-weight:600; color:#ffffff;\">Probabilidad De Genotipo</span></p></body></html>"))
         self.label_12.setText(_translate("AlgoritmoGenetico", "<html><head/><body><p><span style=\" font-size:12pt; font-weight:600; color:#ffffff;\">Poblacion Maxima</span></p></body></html>"))
